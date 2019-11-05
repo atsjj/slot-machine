@@ -1,0 +1,13 @@
+[package]
+name = "slot-machine"
+version = "0.1.0"
+authors = ["Steve Jabour <steve@jabour.me>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gtk = "^0.7.0"
+rand = "^0.7.2"
+relm = "^0.18.0"
+relm-derive = "^0.18.0"
