@@ -1,6 +1,6 @@
 [package]
 name = "slot-machine"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Steve Jabour <steve@jabour.me>"]
 edition = "2018"
 

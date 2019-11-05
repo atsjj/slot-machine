@@ -381,7 +381,7 @@ dependencies = [
 
 [[package]]
 name = "slot-machine"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "gtk 0.7.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "rand 0.7.2 (registry+https://github.com/rust-lang/crates.io-index)",
