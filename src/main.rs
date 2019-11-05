@@ -26,7 +26,7 @@ impl Widget for Header {
     view! {
         #[name="titlebar"]
         gtk::HeaderBar {
-            title: Some("Title"),
+            title: Some("Slot Machine"),
             show_close_button: true,
 
             gtk::Button {
